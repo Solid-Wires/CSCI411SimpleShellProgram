@@ -1,0 +1,6 @@
+man
+so
+nothing
+ls
+dir
+quit
